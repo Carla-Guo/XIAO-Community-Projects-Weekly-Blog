@@ -1,7 +1,5 @@
 # XIAO Community Projects Weekly
 
----
-
 *17 projects · April 17, 2026*
 
 *Discover what makers are building with Seeed Studio XIAO development boards. This week: 17 new community projects spanning Smart Home, Robotics, Telecommunication, Tools & Accessories, LED Lighting, and Gaming.*
@@ -12,6 +10,12 @@
 
 A self-hosted, community-driven server with Recipe support in PHP Laravel. Supports **Seeed Studio XIAO 7.5 inch ePaper Panel** for low-power information displays.
 
+![larapaper](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)
+
+**Hardware Recommendation**
+- **XIAO:** [Seeed Studio XIAO ESP32-S3](https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html)
+- **Expansion:** [ePaper Driver Board V2](https://www.seeedstudio.com/ePaper-breakout-Board-for-XIAO-V2-p-6374.html)
+
 <https://github.com/usetrmnl/larapaper>
 
 ---
@@ -19,6 +23,10 @@ A self-hosted, community-driven server with Recipe support in PHP Laravel. Suppo
 ## trackball by monroewilliams
 
 A custom trackball built from scratch using **Seeeduino XIAO** or Adafruit QT Py with optical mouse sensors. Features Z-axis ball rotation for scroll functionality.
+
+**Hardware Recommendation**
+- **XIAO:** [Seeed Studio XIAO SAMD21](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html)
+- **Expansion:** [Grove Shield for Seeeduino XIAO](https://www.seeedstudio.com/Grove-Shield-for-Seeeduino-XIAO-p-4621.html)
 
 <https://github.com/monroewilliams/trackball>
 
@@ -28,6 +36,10 @@ A custom trackball built from scratch using **Seeeduino XIAO** or Adafruit QT Py
 
 Feature-rich firmware for **ESP32-based e-paper displays**. Supports Seeed Studio **XIAO EE02/EE04**, Waveshare PhotoPainter, and reTerminal E1002.
 
+**Hardware Recommendation**
+- **XIAO:** [Seeed Studio XIAO ESP32-S3](https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html)
+- **Expansion:** [ePaper Driver Board V2](https://www.seeedstudio.com/ePaper-breakout-Board-for-XIAO-V2-p-6374.html)
+
 <https://github.com/aitjcize/esp32-photoframe>
 
 ---
@@ -35,6 +47,10 @@ Feature-rich firmware for **ESP32-based e-paper displays**. Supports Seeed Studi
 ## xiaomao by tigard-tools
 
 A development board for hardware hacking and implant design. Originally based on **Seeed Studio XIAO SAMD21**, now redesigned around **RP2040**.
+
+**Hardware Recommendation**
+- **XIAO:** [Seeed Studio XIAO RP2040](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html)
+- **Expansion:** null
 
 <https://github.com/tigard-tools/xiaomao>
 
@@ -44,6 +60,10 @@ A development board for hardware hacking and implant design. Originally based on
 
 **RP2040 firmware** that converts boards like **XIAO RP2040** into Original Xbox-compatible LPC peripheral devices for loading BIOS images.
 
+**Hardware Recommendation**
+- **XIAO:** [Seeed Studio XIAO RP2040](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html)
+- **Expansion:** null
+
 <https://github.com/Team-Resurgent/Modxo>
 
 ---
@@ -51,6 +71,10 @@ A development board for hardware hacking and implant design. Originally based on
 ## Hackflight by simondlevy
 
 Minimalist flight-control toolkit for makers. Runs on **XIAO ESP32-C6** and Teensy 4.0. Uses header-only C++ classes for composable architecture.
+
+**Hardware Recommendation**
+- **XIAO:** [Seeed Studio XIAO ESP32-C6](https://www.seeedstudio.com/Seeed-Studio-XIAO-ESP32C6-p-5884.html)
+- **Expansion:** [Grove Shield for Seeeduino XIAO](https://www.seeedstudio.com/Grove-Shield-for-Seeeduino-XIAO-p-4621.html)
 
 <https://github.com/simondlevy/Hackflight>
 
@@ -60,6 +84,10 @@ Minimalist flight-control toolkit for makers. Runs on **XIAO ESP32-C6** and Teen
 
 TinyGo package for wireless communication on Espressif ESP32xx microcontrollers. Supports **WiFi**, **DHCP**, **DNS**, **NTP**, and **MQTT**. Tested on **XIAO ESP32-C3** and **XIAO ESP32-S3**.
 
+**Hardware Recommendation**
+- **XIAO:** [Seeed Studio XIAO ESP32-C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html)
+- **Expansion:** [Grove Shield for Seeeduino XIAO](https://www.seeedstudio.com/Grove-Shield-for-Seeeduino-XIAO-p-4621.html)
+
 <https://github.com/tinygo-org/espradio>
 
 ---
@@ -67,6 +95,10 @@ TinyGo package for wireless communication on Espressif ESP32xx microcontrollers.
 ## micropython-reticulum by varna9000
 
 A pure **Python** implementation of the Reticulum network stack running on **ESP32** microcontrollers. Tested on **Seeed XIAO ESP32-S3**.
+
+**Hardware Recommendation**
+- **XIAO:** [Seeed Studio XIAO ESP32-S3](https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html)
+- **Expansion:** [Grove Shield for Seeeduino XIAO](https://www.seeedstudio.com/Grove-Shield-for-Seeeduino-XIAO-p-4621.html)
 
 <https://github.com/varna9000/micropython-reticulum>
 
@@ -76,6 +108,10 @@ A pure **Python** implementation of the Reticulum network stack running on **ESP
 
 HDMI CEC to USB HID keyboard adapter. Supports **XIAO RP2350** and Raspberry Pi Pico boards.
 
+**Hardware Recommendation**
+- **XIAO:** [Seeed Studio XIAO RP2350](https://www.seeedstudio.com/Seeed-XIAO-RP2350-p-5944.html)
+- **Expansion:** null
+
 <https://github.com/gkoh/pico-cec>
 
 ---
@@ -84,6 +120,10 @@ HDMI CEC to USB HID keyboard adapter. Supports **XIAO RP2350** and Raspberry Pi 
 
 Flight stabilisation software for RC multirotor aircraft. Runs on **XIAO ESP32-S3** with **MPU6050 IMU**.
 
+**Hardware Recommendation**
+- **XIAO:** [Seeed Studio XIAO ESP32-S3](https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html)
+- **Expansion:** [Grove Shield for Seeeduino XIAO](https://www.seeedstudio.com/Grove-Shield-for-Seeeduino-XIAO-p-4621.html)
+
 <https://github.com/plainFlight/plainFlightController>
 
 ---
@@ -91,6 +131,10 @@ Flight stabilisation software for RC multirotor aircraft. Runs on **XIAO ESP32-S
 ## ShellOS by passionateSandy2004
 
 A custom OS for ESP32 and **XIAO ESP32-C6** boards. Brings shell access, WiFi configuration, and filesystem management.
+
+**Hardware Recommendation**
+- **XIAO:** [Seeed Studio XIAO ESP32-C6](https://www.seeedstudio.com/Seeed-Studio-XIAO-ESP32C6-p-5884.html)
+- **Expansion:** [Seeeduino XIAO Expansion Board](https://www.seeedstudio.com/Seeeduino-XIAO-Expansion-board-p-4746.html)
 
 <https://github.com/passionateSandy2004/ShellOS---OS-made-Just-For-ESP32-Boards>
 
@@ -102,6 +146,10 @@ Tutorial on building a smart **Matter** button using **Seeed XIAO ESP32 C6** wit
 
 ![Smart Matter Button](https://i.ytimg.com/vi/wokw847hjKM/maxresdefault.jpg)
 
+**Hardware Recommendation**
+- **XIAO:** [Seeed Studio XIAO ESP32-C6](https://www.seeedstudio.com/Seeed-Studio-XIAO-ESP32C6-p-5884.html)
+- **Expansion:** [Seeeduino XIAO Expansion Board](https://www.seeedstudio.com/Seeeduino-XIAO-Expansion-board-p-4746.html)
+
 <https://www.youtube.com/watch?v=wokw847hjKM>
 
 ---
@@ -111,6 +159,10 @@ Tutorial on building a smart **Matter** button using **Seeed XIAO ESP32 C6** wit
 Build a custom smart home device using **Seeed Xiao ESP32-C3** with **ESPHome** integration for seamless **Home Assistant** control.
 
 ![DIY ESPHome Controller](https://i.ytimg.com/vi/_xxoEm9-eiI/maxresdefault.jpg)
+
+**Hardware Recommendation**
+- **XIAO:** [Seeed Studio XIAO ESP32-C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html)
+- **Expansion:** [Grove Shield for Seeeduino XIAO](https://www.seeedstudio.com/Grove-Shield-for-Seeeduino-XIAO-p-4621.html)
 
 <https://www.youtube.com/watch?v=_xxoEm9-eiI>
 
@@ -122,6 +174,10 @@ Build a VFD display clock with animations using **Seeed XIAO ESP32S3** and **NTP
 
 ![VFD Display NTP Clock](https://i.ytimg.com/vi/ToGKmtNXNh8/maxresdefault.jpg)
 
+**Hardware Recommendation**
+- **XIAO:** [Seeed Studio XIAO ESP32-S3](https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html)
+- **Expansion:** null
+
 <https://www.youtube.com/watch?v=ToGKmtNXNh8>
 
 ---
@@ -131,6 +187,10 @@ Build a VFD display clock with animations using **Seeed XIAO ESP32S3** and **NTP
 Build a solar powered wireless water tank level sensor using **Xiao ESP32C3** with **BLE**.
 
 ![Solar Water Tank Level Sensor](https://i.ytimg.com/vi/J7URXH6Qo6Q/maxresdefault.jpg)
+
+**Hardware Recommendation**
+- **XIAO:** [Seeed Studio XIAO ESP32-C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html)
+- **Expansion:** [Grove Shield for Seeeduino XIAO](https://www.seeedstudio.com/Grove-Shield-for-Seeeduino-XIAO-p-4621.html)
 
 <https://www.youtube.com/watch?v=J7URXH6Qo6Q>
 
@@ -142,6 +202,10 @@ Build a voice-controlled quadruped robot dog using **Seeed XIAO ESP32S3**.
 
 ![Voice-Controlled Robot Dog](https://i.ytimg.com/vi/QQHyo7KlaQk/maxresdefault.jpg)
 
+**Hardware Recommendation**
+- **XIAO:** [Seeed Studio XIAO ESP32-S3 Sense](https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html) (onboard microphone for voice control)
+- **Expansion:** [Bus Servo Driver Board](https://www.seeedstudio.com/Bus-Servo-Driver-Board-for-XIAO-p-6413.html) + [XIAO Bus Servo Adapter](https://www.seeedstudio.com/XIAO-Bus-Servo-Adapter-for-XIAO-p-6397.html)
+
 <https://www.youtube.com/watch?v=QQHyo7KlaQk>
 
 ---
@@ -151,6 +215,10 @@ Build a voice-controlled quadruped robot dog using **Seeed XIAO ESP32S3**.
 Tutorial on using **Embassy Rust** framework with **Seeed XIAO BLE** for digital input applications.
 
 ![Embassy Rust + XIAO BLE](https://i.ytimg.com/vi/Rmd7PqXNT28/maxresdefault.jpg)
+
+**Hardware Recommendation**
+- **XIAO:** [Seeed Studio XIAO nRF52840](https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html)
+- **Expansion:** [Grove Shield for Seeeduino XIAO](https://www.seeedstudio.com/Grove-Shield-for-Seeeduino-XIAO-p-4621.html)
 
 <https://www.youtube.com/watch?v=Rmd7PqXNT28>
 
