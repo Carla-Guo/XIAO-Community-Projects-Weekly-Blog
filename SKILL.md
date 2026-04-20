@@ -196,11 +196,8 @@ Any classification or content understanding is forbidden here.
 # 解析 projects.yaml：遍历该文件，提取出所有条目下 link: 对应的值，存入 whitelist_set
 whitelist_set ← projects.yaml (link)
 
-# 解析 blacklist.md：同理，提取出 link: 对应的值，存入 blacklist_set
+# 解析 blacklist.md：遍历该文件，提取出所有条目下 link: 对应的值，存入 blacklist_set
 blacklist_set ← blacklist.md (link)
-
-# 求并集 (∪)：将这两个集合合并。由于是“Set（集合）”操作，重复的链接会被自动剔除
-dedup_set = whitelist_set ∪ blacklist_set
 
 # 新建粗筛结果缓存空间
 rough_candidate_pool = []
@@ -235,7 +232,7 @@ rough_candidate_pool = []
 
 Use only `rough_candidate_pool`.
 
-## Objective
+<!-- ## Objective
 
 For each candidate, perform one-pass metadata enrichment to gather all information required for:
 
@@ -246,7 +243,7 @@ For each candidate, perform one-pass metadata enrichment to gather all informati
 
 No re-fetch. No re-run.
 
-If a field cannot be determined, return `null`.
+If a field cannot be determined, return `null`. -->
 
 ---
 
