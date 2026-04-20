@@ -1,5 +1,9 @@
 # XIAO Community Projects Weekly
 
+---
+
+*17 projects · April 17, 2026*
+
 *Discover what makers are building with Seeed Studio XIAO development boards. This week: 17 new community projects spanning Smart Home, Robotics, Telecommunication, Tools & Accessories, LED Lighting, and Gaming.*
 
 ---
@@ -149,10 +153,6 @@ Tutorial on using **Embassy Rust** framework with **Seeed XIAO BLE** for digital
 ![Embassy Rust + XIAO BLE](https://i.ytimg.com/vi/Rmd7PqXNT28/maxresdefault.jpg)
 
 <https://www.youtube.com/watch?v=Rmd7PqXNT28>
-
----
-
-*17 projects · April 17, 2026*
 
 ---
 
