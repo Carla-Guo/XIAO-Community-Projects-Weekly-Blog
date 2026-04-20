@@ -10,8 +10,6 @@
 
 A self-hosted, community-driven server with Recipe support in PHP Laravel. Supports **Seeed Studio XIAO 7.5 inch ePaper Panel** for low-power information displays.
 
-![larapaper](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)
-
 **Hardware Recommendation**
 - **XIAO:** [Seeed Studio XIAO ESP32-S3](https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html)
 - **Expansion:** [ePaper Driver Board V2](https://www.seeedstudio.com/ePaper-breakout-Board-for-XIAO-V2-p-6374.html)
